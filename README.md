@@ -27,3 +27,4 @@ Lista de projetos em Jupyter Notebook:
 * **Análise do Airbnb em Madrid:** https://bit.ly/3fnWeeV
 * **Análise da violência no estado do Rio de Janeiro:** https://bit.ly/2CALw6V
 * **Análise da COVID-19:** https://bit.ly/3dBZYrZ
+* **Churn Prediction:** https://bit.ly/3gZVRIm
