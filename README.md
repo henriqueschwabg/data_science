@@ -15,7 +15,6 @@ Trabalhei como Desenvolvedor de Sistemas Web e Mobile, em Porto Alegre, Rio Gran
 
 
 **Links:**
-* [Kaggle](https://www.kaggle.com/henriqueschwabg)
 * [LinkedIn](https://www.linkedin.com/in/henrique-schwab-gelatti-63ba641aa/)
 * [Medium](https://medium.com/@henrique.gelatti)
 
